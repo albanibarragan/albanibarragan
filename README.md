@@ -1,10 +1,9 @@
-## Hi, soy Albani 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanibarragan&hide_progress=true)
+# Hey👋
 <!--
 **albanibarragan/albanibarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: ...
 -->
+### 👩‍💻  Sobre mi 
 - 🌱 Actualmente estoy en mi etapa de principiante en programación..
 - 🤔 Estoy buscando ayuda en superar mi etapa como principiante hasta ser una desarrolladora Frontend.
 - ❓ Pregúntame lo que quieras. Me interesa ayudar y compartir.
@@ -14,11 +13,23 @@
 
 ¡En construcción!
 
-### 📈 &nbsp;&nbsp;Some of my stats are:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albanibarragan" />
-</p>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexcamachogz1212%2Fhit-counter" />
-</p>
+### 🔥My Stats :
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=albanibarragan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albanibarragan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albanibarragan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/albanibarragan/count.svg?"  />
+</div>
+
+###
 
