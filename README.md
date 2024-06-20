@@ -1,5 +1,6 @@
 ## Hi, soy Albani 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanibarragan&hide_progress=true)
 <!--
 **albanibarragan/albanibarragan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: ...
@@ -21,4 +22,3 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexcamachogz1212%2Fhit-counter" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanibarragan&hide_progress=true)
