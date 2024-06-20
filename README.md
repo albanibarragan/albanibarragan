@@ -6,6 +6,7 @@
 -->
 - 🌱 Actualmente estoy en mi etapa de principiante en programación..
 - 🤔 Estoy buscando ayuda en superar mi etapa como principiante hasta ser una desarrolladora Frontend.
+- ❓ Pregúntame lo que quieras. Me interesa ayudar y compartir.
 
 
 ### ⚒️ &nbsp;&nbsp;My projects:
