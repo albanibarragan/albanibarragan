@@ -15,10 +15,10 @@
 
 ### 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexcamachogz" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=albanibarragan" />
 </p>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexcamachogz1212%2Fhit-counter" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albanibarragan&hide_progress=true)
