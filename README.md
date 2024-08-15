@@ -6,6 +6,8 @@
 - 🌱 Aprendiendo desarrollo web y python
 - ⚡  Proximamente seré desarrolladora web
 
+### Lo que esta principalmente aquí son algunas cosas para ayudarme contra mi sindrome del impostor
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
